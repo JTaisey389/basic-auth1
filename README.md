@@ -1,6 +1,8 @@
 # LAB - Class 06
 
 ## Author: Jason Taisey
+    - Pair Programed on this lab with Lydia!
+    - Due to computer issues I had to pair with Lydia on this lab
 
 ### Links and Resources
 
